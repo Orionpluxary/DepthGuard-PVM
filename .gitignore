@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C / Build artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.tar.gz
+*.zip
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temporary files
+*.log
+*.tmp
